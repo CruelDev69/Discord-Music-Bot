@@ -1,12 +1,6 @@
 # Discord-Music-Bot
 A Discord Music Bot made with ♥ by Ahad#3257
 
-[![Spotify](https://media.discordapp.net/attachments/914513217659756585/981731270516162560/unknown.png)](https://www.vivre.cf)
-
-[![YouTube](https://media.discordapp.net/attachments/914513217659756585/981731158956060682/unknown-1.jpeg)](https://itscruel.cf/social-medias)
-
-[![Ahad](https://media.discordapp.net/attachments/914513217659756585/981694670612623360/unknown.png)](https://www.itscruel.cf)
-
 # How To Use?
 It's verify simple just follow the steps written below.
 
@@ -45,3 +39,9 @@ Skidding this code is not allowed if you see anyone taking credits of this scrip
 
 # Discord: Ahad#3257
 If you liked this music bot please don't forget to give it a star it would mean a lot.
+
+[![Spotify](https://media.discordapp.net/attachments/914513217659756585/981731270516162560/unknown.png)](https://www.vivre.cf)
+
+[![YouTube](https://media.discordapp.net/attachments/914513217659756585/981731158956060682/unknown-1.jpeg)](https://itscruel.cf/social-medias)
+
+[![Ahad](https://media.discordapp.net/attachments/914513217659756585/981694670612623360/unknown.png)](https://www.itscruel.cf)
