@@ -1,6 +1,12 @@
 # Discord-Music-Bot
 A Discord Music Bot made with ♥ by Ahad#3257
 
+[![Spotify](https://media.discordapp.net/attachments/914513217659756585/981731270516162560/unknown.png)](https://www.vivre.cf)
+
+[![YouTube](https://media.discordapp.net/attachments/914513217659756585/981731158956060682/unknown-1.jpeg)](https://itscruel.cf/social-medias)
+
+[![Ahad](https://media.discordapp.net/attachments/914513217659756585/981694670612623360/unknown.png)](https://www.itscruel.cf)
+
 # How To Use?
 It's verify simple just follow the steps written below.
 
@@ -9,6 +15,8 @@ Run `setup.bat` to install all dependencies.
 Enter your Bot's Token in `config.json` 
 
 Run `start.bat`
+
+Type `$help` to see list of commands.
 
 # Features
 ・High Music Quality.
