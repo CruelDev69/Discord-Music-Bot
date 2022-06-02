@@ -1,0 +1,45 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "A discord music bot made with ♥ by Ahad#3257",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord-music-bot",
+    "ahad",
+    "cruel",
+    "music-bot",
+    "discord.js-v13",
+    "discord.js",
+    "github",
+    "stage"
+  ],
+  "author": "Ahad#3257",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "@distube/spotify": "^1.2.1",
+    "@distube/yt-dlp": "^1.0.2",
+    "@distube/ytdl-core": "^4.11.2",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.3",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "libsodium-wrappers": "^0.7.10",
+    "moment": "^2.29.1",
+    "opusscript": "0.0.8",
+    "simple-youtube-api": "^5.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruelDev69/Discord-Music-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CruelDev69/Discord-Music-Bot/issues"
+  },
+  "homepage": "https://github.com/CruelDev69/Discord-Music-Bot#readme"
+}
