@@ -1,8 +1,6 @@
 # Discord-Music-Bot
-A Discord Music Bot made with ♥ by Ahad#3257
+A Discord Music Bot made with ♥ by [Ahad#3257](https://www.itscruel.cf)
 
-
-![repo views](https://visitor-badges.glitch.me?username=CruelDev69&repo=Discord-Music-Bot&label=Visitors&style=for-the-badge&color=%23000000&token=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)
 # How To Use?
 It's verify simple just follow the steps written below.
 
@@ -23,7 +21,7 @@ Type `$help` to see list of commands.
 
 ・Easy to use.
 
-・Hostable on Heroku.
+・Hostable on [__**Heroku.**__](https://www.heroku.com)
 
 ・Hostable on [__**Replit.**__](https://replit.com/@V-UNIT/Music-Bot)
 
