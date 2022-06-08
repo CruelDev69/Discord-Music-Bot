@@ -1,6 +1,8 @@
 # Discord-Music-Bot
 A Discord Music Bot made with ♥ by Ahad#3257
 
+
+![repo views](https://visitor-badges.glitch.me?username=CruelDev69&repo=Discord-Music-Bot&label=Visitors&style=for-the-badge&color=%23000000&token=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)
 # How To Use?
 It's verify simple just follow the steps written below.
 
