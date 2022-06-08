@@ -2,7 +2,7 @@
 A Discord Music Bot made with ♥ by [Ahad#3257](https://www.itscruel.cf)
 
 # How To Use?
-It's verify simple just follow the steps written below.
+It's very simple just follow the steps written below.
 
 Run `setup.bat` to install all dependencies.
 
