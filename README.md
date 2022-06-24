@@ -24,9 +24,11 @@ Type `$help` to see list of commands.
 ・Hostable on [__**Heroku.**__](https://www.heroku.com)
 
 ・Hostable on [__**Replit.**__](https://replit.com/@V-UNIT/Music-Bot)
+***
 
 <p align="center"><img width="800px" src="https://media.discordapp.net/attachments/914513217659756585/981729339563454494/unknown.png"/></p>
 
+***
 # Note:
 Use it but please give credits to author.
 
@@ -39,9 +41,11 @@ Skidding this code is not allowed if you see anyone taking credits of this scrip
 
 # Discord: Ahad#3257
 If you liked this music bot please don't forget to give it a star it would mean a lot.
-
+***
 [![Spotify](https://media.discordapp.net/attachments/914513217659756585/981731270516162560/unknown.png)](https://www.vivre.cf)
 
 [![YouTube](https://media.discordapp.net/attachments/914513217659756585/981731158956060682/unknown-1.jpeg)](https://itscruel.cf/social-medias)
 
 [![Ahad](https://media.discordapp.net/attachments/914513217659756585/981694670612623360/unknown.png)](https://www.itscruel.cf)
+
+***
