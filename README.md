@@ -46,6 +46,6 @@ If you liked this music bot please don't forget to give it a star it would mean 
 
 [![YouTube](https://media.discordapp.net/attachments/914513217659756585/981731158956060682/unknown-1.jpeg)](https://itscruel.cf/social-medias)
 
-[![Ahad](https://media.discordapp.net/attachments/914513217659756585/981694670612623360/unknown.png)](https://www.itscruel.cf)
+[![Ahad](https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg)](https://www.itscruel.cf)
 
 ***
