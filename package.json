@@ -19,7 +19,7 @@
   "author": "Ahad#3257",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/voice": "^0.8.0",
+    "@discordjs/voice": "^0.15.0",
     "@distube/spotify": "^1.2.1",
     "@distube/yt-dlp": "^1.0.2",
     "@distube/ytdl-core": "^4.11.2",
